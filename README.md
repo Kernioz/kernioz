@@ -1,9 +1,5 @@
-### Hi there 👋
+### Hi there (c la rue)  👋
 
-
-**Kernioz/kernioz** jsp
-
-
-- 🔭 I’m currently working on GFive (discord.gg/gtafive)
+- 🔭 I’m currently working on GFive & SideLife (discord.gg/gtafive & discord.gg/sidelife)
 
 
