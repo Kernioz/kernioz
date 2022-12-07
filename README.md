@@ -1,5 +1,5 @@
-### Hi there (c la rue)  👋
+### Hi there 👋
 
-- 🔭 I’m currently working on GFive
+- 🔭 I’m 20 years old.
 
 
