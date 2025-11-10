@@ -5,7 +5,7 @@
 
 ---
 
-## 🌍 Programming languages:
+## 🌍 Programming languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![LUA](https://img.shields.io/badge/LUA-blue?style=for-the-badge&logo=lua&logoColor=whit)
@@ -17,12 +17,12 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-## 📦 Databases:
+## 📦 Databases
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 
-## ⚙️ Tools:
+## ⚙️ Tools
 [![tools](https://skillicons.dev/icons?i=git,github,figma,vscode,idea,docker,discord&theme=dark)](https://github.com/kernioz)
 
 ---
